@@ -1,15 +1,15 @@
 # Papeleria OSALAN
 Proyecto de Programación Visual sobre una Papelería.  
-[Integrantes](#Desarrolladores)
+[Integrantes](#desarrolladores)
 
 ## Descripcion
 Aplicacion para el control de una papeleria.
 
-* [Splash Screen](#Splash-Screen)
-* [Log-In](#Log-In)
-* [Inicio](#Inicio)
-	1. [Administrador](#Administrador)
-	2. [Empleado](#Empleado)
+* [Splash Screen](#splash-screen)
+* [Log-In](#log-in)
+* [Inicio](#inicio)
+	1. [Administrador](#administrador)
+	2. [Empleado](#empleado)
 
 ## Aplicacion
 ### Splash Screen
@@ -23,15 +23,15 @@ Si es la primera ejecucion del programa el primer usuario en hacer el log-in ser
 Inicio distinto segun el tipo de usuario que se inicio sesion.
 
 #### Administrador
-* [Añadir Empleado](#Añadir-Empleado)
-* [Compra](#Añadir-Compra)
-* [Historial](#Historial)
-* [Empleados](#Empleados)
-* [Venta](#Venta)
-* [Almacen](#Almacen)
+* [Añadir Empleado](#añadir-empleado)
+* [Compra](#añadir-compra)
+* [Historial](#historial)
+* [Empleados](#empleados)
+* [Venta](#venta)
+* [Almacen](#almacen)
 
 #### Empleado
-* [Venta](#Venta)
+* [Venta](#venta)
 
 #### Añadir Empleado
 Añadir un empleado al registro de la papeleria.  
@@ -57,6 +57,6 @@ Posibilidad de generar PDF.
 
 
 ### Desarrolladores
-__Oscar Josue Lira Calva__ *OskarCalí*  
-__Alejandra Garcia Morales__  
-__Angel de Jesus Taboada Valencia__
+_Oscar Josue Lira Calva_ **OskarCalí**  
+_Alejandra Garcia Morales_  
+_Angel de Jesus Taboada Valencia_
